@@ -8,11 +8,12 @@ body{
     margin:1px;
 	
 	}
-.header{
+header{
 	background-color:#011e29;
+	font-size:30px;
 	color:white;
 	text-align:center;
-	padding:1px;
+	padding:20px;
 	}
    .latest-news-section {
 	   margin:10px;
