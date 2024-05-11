@@ -24,7 +24,7 @@ header{
 	   padding:0px;
 	   border-radius:10px;
 	   }
-.latest-news-section>h5{
+.latest-news-section>h3{
 	text-align:center;
 }
 .main-article{
@@ -37,7 +37,7 @@ header{
 	   padding:1px;
 	   border-radius:10px;
 	   }
-.main-article>h5{
+.main-article>h2{
 	text-align:center;
 }
 .pictorial-news-section {
@@ -49,7 +49,7 @@ header{
 	   padding:0px;
 	   border-radius:10px;
 	   }
-.pictorial-news-section>h5{
+.pictorial-news-section>h2{
 	text-align:center;
 }
 .m1{
